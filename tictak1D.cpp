@@ -87,6 +87,6 @@ int main()
 	cout<<"\nWant to play again(y/n)";
 	char ch;cin>>ch;
 	if(ch=='y')
-		goto again;	
+		goto again; 	
 return 0;	
 }
