@@ -1,8 +1,5 @@
-#include<iostream>
-#include<stdbool.h>
-#include<windows.h>
+#include<bits/stdc++.h>
 using namespace std;
-
 
 int  check(int a[])
 {
